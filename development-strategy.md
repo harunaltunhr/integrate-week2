@@ -22,27 +22,54 @@ __A User can see my initial repository and live demo__
 - Write initial, basic README
 - Turn on GitHub Pages
 
-## 1. __
+## 1. Create Heading, navbar and Footer
 
-__full user story description__
+__I want to see company name a good navbar and footer at the bottom__
 
 ### Repo
-
-what branch(es) did you work on?
+- Create a new branch as _header-nav-_footer_
+- ***Harun*** will be responsible
 
 ### HTML
 
-what did you change in the HTML and why?
+- Create a header
+- Create a navbar
+- Create a footer
 
 ### CSS
+- Styled element (header and footer: brown navbar: white)
 
-what did you change in the CSS and why?
+## 2. Create article and section
 
-## 2. ...
+__I want to see some info about chocolate__
 
-...
+### Repo
+- Create a new branch as _article-section_
+- ***Yana*** will be responsible
 
-...
+### HTML
+
+- Create an article
+- Create a section
+
+### CSS
+- Styled element (width: 65% article section: white)
+
+## 3. Create aside
+
+__I want to see some links for more detail info about chocolate__
+
+### Repo
+- Create a new branch as _aside_
+- ***Miroslav*** will be responsible
+
+### HTML
+
+- Create an aside
+
+
+### CSS
+- Styled element (width: 35% aside: white)
 
 ## Finishing Touches
 
