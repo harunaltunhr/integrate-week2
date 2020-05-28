@@ -1,1 +1,17 @@
+body {
+}
 
+h2 {
+    font-size: 1.5em;
+    color: rgb(104, 80, 47);    
+}
+
+.important {
+    color: rgb(134, 99, 54);
+    font-weight: bold;
+}
+
+section, article {
+    float: left;
+    width: 60%;
+}
