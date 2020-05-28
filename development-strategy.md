@@ -1,6 +1,6 @@
 # Development Strategy
 
-> `name-of-project`
+> `integrate week-2`
 
 write a short description of your project:
 - who would want to use it?
@@ -10,7 +10,7 @@ write a short description of your project:
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+![wireframe](https://github.com/harunaltunhr/integrate-week2/blob/master/wireframe.gif)
 
 ## 0. Set-Up
 
