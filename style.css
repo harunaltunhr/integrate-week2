@@ -30,8 +30,10 @@ aside {
 
 button.reservation {
   background-color: brown;
-  text-transform: capitalize;
-  border-radius: 5px;
+  text-transform: uppercase;
+  border-radius: 6px;
+  padding: 5px;
+  font-weight: bold;
 }
 
 nav {
