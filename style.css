@@ -64,17 +64,19 @@ nav a:hover {
   border-radius: 45%;
 }
 
-footer {
-  position: fixed;
-  background-color: brown;
-  color: white;
-  font-size: 1.5em;
-  text-align: center;
-  width: 100%;
-  bottom: 0;
+footer{
+   clear:both;
+   background-color: brown;
+   color:white;
+   font-size: 1.5em;
+   text-align: center;
+   width: 100%;
 }
 
-footer a {
-  text-decoration: none;
-  color: whitesmoke;
+ footer a{
+   text-decoration: none;
+   color: whitesmoke;
+}
+ footer p{
+  padding: 1em;
 }
