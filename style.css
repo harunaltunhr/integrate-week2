@@ -1,3 +1,4 @@
+
 header {
   background-color: brown;
   color:white;
@@ -5,32 +6,50 @@ header {
   text-align: center;
   width: auto;
 
+h2 {
+    font-size: 1.5em;
+    color: rgb(104, 80, 47);    
 }
+
+.important {
+    color: rgb(134, 99, 54);
+    font-weight: bold;
+}
+
+section, article {
+    float: left;
+    width: 60%;
+}
+  
 nav{
     border-bottom:2px inset brown;
 }
-nav ul {
+
+  nav ul {
   display: flex;
   justify-content: space-around;
   list-style: none;
 }
+
 nav a{
     text-decoration: none;
     color: brown;
     background-color: white;
     font-size: 1.5em;
 }
+
 nav li {
   display: inline;
- 
 }
-nav a:hover {
+
+  nav a:hover {
     background-color: brown;
     color: white;
     border: white solid 1px;
     border-radius:45%
 }
-footer{
+
+  footer{
     position: fixed;
     background-color: brown;
     color:white;
@@ -39,9 +58,8 @@ footer{
     width: 100%;
     bottom: 0;
 }
-footer a{
+
+  footer a{
     text-decoration: none;
-
     color: whitesmoke;
-
 }
